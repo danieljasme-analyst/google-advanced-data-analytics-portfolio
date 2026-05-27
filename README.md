@@ -37,7 +37,6 @@ All projects follow the **TikTok** scenario: a fictional case study where I am a
 | Course 4 | The Power of Statistics | ✅ Complete | Hypothesis testing, statistical analysis |
 | Course 5 | Regression Analysis: Simplify Complex Data Relationships | ✅ Complete | Regression model |
 | Course 6 | The Nuts and Bolts of Machine Learning | ✅ Complete | ML classification model |
-| Capstone | Google Advanced Data Analytics Capstone | ✅ Complete | Full end-to-end portfolio project |
 
 ---
 
