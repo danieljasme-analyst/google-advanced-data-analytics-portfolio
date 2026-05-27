@@ -101,7 +101,7 @@ Banned authors disproportionately post claim videos. This relationship between `
 
 ## Tableau Dashboard
 
-🔗 **[Add your Tableau Public URL here](https://public.tableau.com/views/TiktokEndofCourse2Project/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+🔗 **[Tableau Public link ](https://public.tableau.com/views/TiktokEndofCourse2Project/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 *Accessibility note: Dashboard uses both color and shape encoding on the scatter plot to ensure usability for viewers with visual impairments.*
 
