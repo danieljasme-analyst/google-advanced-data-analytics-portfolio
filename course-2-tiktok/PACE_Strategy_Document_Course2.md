@@ -4,7 +4,7 @@
 **Data Professional:** Ahmad Daniel  
 **Project:** TikTok Claims Classification  
 **Course:** 2 — Get Started with Python  
-**Date:** May 2026
+**Date:** 27 May 2026
 
 ---
 
