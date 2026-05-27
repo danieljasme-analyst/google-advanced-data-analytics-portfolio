@@ -33,11 +33,11 @@ All projects follow the **TikTok** scenario: a fictional case study where I am a
 |--------|-------|--------|-----------------|
 | Course 1 | Foundations of Data Science | ✅ Complete | PACE document, Python notebook (data inspection), Executive Summary |
 | Course 2 | Get Started with Python | ✅ Complete  | EDA notebook with visualizations |
-| Course 3 | Go Beyond the Numbers: Translate Data into Insights | ⏳ Upcoming | Full EDA, data visualizations |
-| Course 4 | The Power of Statistics | ⏳ Upcoming | Hypothesis testing, statistical analysis |
-| Course 5 | Regression Analysis: Simplify Complex Data Relationships | ⏳ Upcoming | Regression model |
-| Course 6 | The Nuts and Bolts of Machine Learning | ⏳ Upcoming | ML classification model |
-| Capstone | Google Advanced Data Analytics Capstone | ⏳ Upcoming | Full end-to-end portfolio project |
+| Course 3 | Go Beyond the Numbers: Translate Data into Insights | ✅ Complete | Full EDA, data visualizations |
+| Course 4 | The Power of Statistics | ✅ Complete | Hypothesis testing, statistical analysis |
+| Course 5 | Regression Analysis: Simplify Complex Data Relationships | ✅ Complete | Regression model |
+| Course 6 | The Nuts and Bolts of Machine Learning | ✅ Complete | ML classification model |
+| Capstone | Google Advanced Data Analytics Capstone | ✅ Complete | Full end-to-end portfolio project |
 
 ---
 
