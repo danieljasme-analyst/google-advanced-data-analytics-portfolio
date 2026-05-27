@@ -1,6 +1,6 @@
 # Exploring TikTok Data with Python: My EDA Approach (Google Advanced DA Certificate — Course 2)
 
-*This is the second post in my Google Advanced Data Analytics Certificate series. [Part 1 covers the initial data inspection (Course 1)](https://danieljasme.hashnode.dev). This post covers Exploratory Data Analysis (EDA) with Python and Tableau.*
+*This is the second post in my Google Advanced Data Analytics Certificate series. [Part 1 covers the initial data inspection (Course 1)](https://danieljasme.hashnode.dev/getting-started-with-tiktok-data-pace-framework-and-initial-inspection-google-advanced-da-certificate-course-1). This post covers Exploratory Data Analysis (EDA) with Python and Tableau.*
 
 ---
 
