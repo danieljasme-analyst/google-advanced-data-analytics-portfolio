@@ -1,4 +1,4 @@
-# google-advanced-data-analytics-portfolio
+# Google-Advanced-Data-Analytics-portfolio
  End-of-course portfolio projects for the Google Advanced Data Analytics Certificate — TikTok claims classification case study using Pyt# Google Advanced Data Analytics Certificate — Portfolio
 
 **Candidate:** Ahmad Daniel  
