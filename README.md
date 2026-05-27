@@ -32,7 +32,7 @@ All projects follow the **TikTok** scenario: a fictional case study where I am a
 | Course | Title | Status | Key Deliverables |
 |--------|-------|--------|-----------------|
 | Course 1 | Foundations of Data Science | ✅ Complete | PACE document, Python notebook (data inspection), Executive Summary |
-| Course 2 | Get Started with Python | ⏳ Upcoming | EDA notebook with visualizations |
+| Course 2 | Get Started with Python | ✅ Complete  | EDA notebook with visualizations |
 | Course 3 | Go Beyond the Numbers: Translate Data into Insights | ⏳ Upcoming | Full EDA, data visualizations |
 | Course 4 | The Power of Statistics | ⏳ Upcoming | Hypothesis testing, statistical analysis |
 | Course 5 | Regression Analysis: Simplify Complex Data Relationships | ⏳ Upcoming | Regression model |
