@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28296909/README.md)
 # google-advanced-data-analytics-portfolio
  End-of-course portfolio projects for the Google Advanced Data Analytics Certificate — TikTok claims classification case study using Pyt# Google Advanced Data Analytics Certificate — Portfolio
 
